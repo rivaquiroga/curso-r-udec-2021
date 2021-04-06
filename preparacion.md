@@ -98,17 +98,6 @@ Una vez que hayas creado una cuenta, verás algo así. Este es tu espacio de tra
 <img src="imagenes/espacio-de-trabajo.png" width="600"/>
 </p>
 
-Para poder empezar a trabajar en RStudio Cloud necesitas crear un proyecto. Para ello, haz clic en "New Project". Puede tomar alrededor de un minuto en crear:
-
-<p align="center">
-<img src="imagenes/deploying-project.png" width="300"/>
-</p>
-
-Cuando esté listo, verás algo así:
-
-<p align="center">
-<img src="imagenes/projecto-creado.png" width="600"/>
-</p>
 
 ¡Listo! Ya tienes todo lo necesario para la primera sesión.
 
