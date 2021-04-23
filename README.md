@@ -10,7 +10,17 @@ En [el siguiente documento](https://github.com/rivaquiroga/curso-r-udec-2021/blo
 
 ### Sesión 1: 9 de abril
 
+[Código](http://bit.ly/r-udec-script-1) :page_facing_up:
+
+[Datos](http://bit.ly/r-udec-datos-1) :open_file_folder:
+
 ### Sesión 2: 16 de abril
+
+[Código](http://bit.ly/r-udec-script-1) :page_facing_up: (seguimos trabajando en el mismo script de la semana pasada)
+
+[Datos](http://bit.ly/r-udec-datos-2) :open_file_folder:
+
+[Presentación "joins"](http://bit.ly/r-uniones) :computer:
 
 ### Sesión 3: 23 de abril
 
